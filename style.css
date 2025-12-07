@@ -64,8 +64,8 @@ footer{
     background-color: rgb(219, 202, 202);
     margin-top: 25px;
     position: fixed;
-    top: 0;
-    left: 0;
+    top: 25px;
+    left: 10px;
 
 
 a{
@@ -193,6 +193,7 @@ gap: 50px;
 font-size: 20px;
 border-width: 5px;
 }
+
 
 
 
